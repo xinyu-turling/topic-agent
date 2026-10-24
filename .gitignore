@@ -1,0 +1,10 @@
+# 编译产物
+/topic-agent
+*.exe
+*.test
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
